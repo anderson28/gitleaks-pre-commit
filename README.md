@@ -5,8 +5,8 @@ This script automates the installation of Gitleaks and sets up a pre-commit hook
 ## Usage
 To run the script, execute the following command:
 
-```sh
-curl -sSL https://raw.githubusercontent.com/anderson28/gitleaks-pre-commit/main/run.sh | sh
+```bash
+curl -sSL https://raw.githubusercontent.com/anderson28/gitleaks-pre-commit/main/run.sh | bash
 ```
 Ensure that you run this command in the project folder where there is a .git folder present.
 
